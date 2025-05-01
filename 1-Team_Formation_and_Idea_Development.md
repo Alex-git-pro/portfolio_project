@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ 2. Organisation et Méthode
+## 2. Organisation et Méthode
 
 - **Rôle unique** : Développeur, designer, concepteur de contenu
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 💡 3. Idées Explorées
+## 3. Idées Explorées
 
 | Idée                  | Description                                                | Raisons du rejet                                         |
 |-----------------------|------------------------------------------------------------|---------------------------------------------------------|
@@ -37,7 +37,7 @@
 
 ---
 
-## ✅ 4. MVP Sélectionné : **FitAI – Assistant Fitness IA**
+## 4. MVP Sélectionné : **FitAI – Assistant Fitness IA**
 
 ### Résumé du concept :
 Le site **FitAI** permet à l’utilisateur de renseigner ses données (âge, poids, objectifs, niveau de forme, préférences alimentaires, etc.). À partir de ces infos, une IA génère :
@@ -57,7 +57,7 @@ Le site **FitAI** permet à l’utilisateur de renseigner ses données (âge, po
 
 ---
 
-## ⚠️ 5. Défis et Opportunités
+## 5. Défis et Opportunités
 
 ### Défis anticipés :
 - S’assurer que les conseils générés soient pertinents et sûrs
@@ -71,7 +71,7 @@ Le site **FitAI** permet à l’utilisateur de renseigner ses données (âge, po
 
 ---
 
-## 📝 6. Processus de Décision
+## 6. Processus de Décision
 
 ### Méthodes utilisées :
 - Analyse de mes compétences actuelles
