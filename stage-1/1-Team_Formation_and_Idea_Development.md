@@ -2,7 +2,7 @@
 
 ## 1. Présentation Générale
 
-- **Nom du projet** : FitAI  
+- **Nom du projet** : Coachly 
 - **Type** : Projet individuel (portfolio)  
 - **Objectif** : Développer un site web de fitness avec un assistant virtuel IA. Il générera pour chaque utilisateur un programme sportif et un plan alimentaire personnalisés selon son profil (âge, poids, objectifs, préférences alimentaires...).
 
@@ -33,14 +33,14 @@
 |-----------------------|------------------------------------------------------------|---------------------------------------------------------|
 | App recettes saines    | Propose des repas équilibrés selon l’objectif              | Trop limité, peu de personnalisation                    |
 | Répertoire exercices   | Classe les exercices par difficulté et objectifs           | Utile mais trop statique, peu intelligent               |
-| **FitAI (retenue)**    | Site avec IA qui crée un plan sport + nutrition adapté      | ✅ Plus complet, faisable et innovant                   |
+| **Coachly (retenue)**    | Site avec IA qui crée un plan sport + nutrition adapté      | ✅ Plus complet, faisable et innovant                   |
 
 ---
 
-## 4. MVP Sélectionné : **FitAI – Assistant Fitness IA**
+## 4. MVP Sélectionné : **Coachly – Assistant Fitness IA**
 
 ### Résumé du concept :
-Le site **FitAI** permet à l’utilisateur de renseigner ses données (âge, poids, objectifs, niveau de forme, préférences alimentaires, etc.). À partir de ces infos, une IA génère :
+Le site **Coachly** permet à l’utilisateur de renseigner ses données (âge, poids, objectifs, niveau de forme, préférences alimentaires, etc.). À partir de ces infos, une IA génère :
 - Un programme sportif personnalisé
 - Un plan alimentaire adapté
 - Des conseils et recommandations (via une interface simple ou chatbot)
@@ -82,4 +82,4 @@ Le site **FitAI** permet à l’utilisateur de renseigner ses données (âge, po
   - Valeur ajoutée
 
 ### Conclusion :
-Le projet **FitAI** est un bon équilibre entre un défi technique intéressant et une solution utile. Il me permet de montrer plusieurs compétences (web, UX, IA) dans un seul projet structuré.
+Le projet **Coachly** est un bon équilibre entre un défi technique intéressant et une solution utile. Il me permet de montrer plusieurs compétences (web, UX, IA) dans un seul projet structuré.
